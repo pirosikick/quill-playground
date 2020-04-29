@@ -1,0 +1,35 @@
+{
+  "name": "quill-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirosikick/quill-playground.git"
+  },
+  "keywords": [],
+  "author": "Hiroyuki ANAI <pirosikick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pirosikick/quill-playground/issues"
+  },
+  "homepage": "https://github.com/pirosikick/quill-playground#readme",
+  "dependencies": {
+    "firebase": "^7.2.3",
+    "quill": "^1.3.7",
+    "quill-delta": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/quill": "^2.0.3",
+    "html-webpack-plugin": "^4.2.1",
+    "prettier": "^2.0.5",
+    "ts-loader": "^7.0.1",
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
